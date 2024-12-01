@@ -14,6 +14,7 @@ _(function(a,b){return new Promise(function(__){a.createServer(function(_0,_1){_
 		<main>
 			<h1>welcome to a mini chrismun site</h1>
 			<p>this site is practically pointless but i mean im doig this for advent of code which in turn is also kinda pointless and fun at the saem time</p>
+			<p>merry chrismun guys</p>
 			<p>anyways enough yapping ill be waiting for tmrw</p>
 		</main>
 	</body>
