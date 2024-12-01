@@ -2,7 +2,7 @@
 
 _=function(_0){return async function(..._1){_2=await Promise.resolve(_0(..._1));console.log(_2);return _2}}
 
-_(function(a, b){return new Promise(function(__){a.createServer(function(_0,_1){_1.writeHead(2e2,{"content-type":"text/html"});_1.end(b.slice(1,-1))}).listen(process.env.PORT||5500,function(){__("mini chrismun site launched!")})})})(require("http"), `
+_(function(a, b){return new Promise(function(__){a.createServer(function(_0,_1){_1.writeHead(2e2,{"content-type":"text/html"});_1.end(b.slice(1,-1))}).listen(process.env.PORT||55e2,function(){__("mini chrismun site launched!")})})})(require("http"), `
 <!DOCTYPE html>
 <html>
 	<head>
