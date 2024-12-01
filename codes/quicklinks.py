@@ -10,6 +10,6 @@ b = 1
 print("---")
 print("# Quicklinks to codes:\n")
 while b <= 22:
-	print(f"\t- [December {a(b)}](/codes/{str(b).zfill(2)}.js)")
+	print(f"  - [December {a(b)}](/codes/{str(b).zfill(2)}.js)")
 	b += 1
 print("---")
