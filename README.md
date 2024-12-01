@@ -2,7 +2,9 @@
 If you know why you're here, continue right this repo.
 Else, go check out some other repo and pretend like you saw ***nothing***
 
-# Quicklinks to codes:
+Note: I wanted to make this a challenge, so I'm doing absolutely anything in Node.
+
+## Quicklinks to codes:
 
   - [December 1st](/codes/01.js)
   - [December 2nd](/codes/02.js)
