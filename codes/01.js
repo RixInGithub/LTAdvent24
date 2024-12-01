@@ -20,3 +20,12 @@ _(function(a,b){return new Promise(function(__){a.createServer(function(_0,_1){_
 	</body>
 </html>
 `)
+
+/* ultra big explanation time!
+ * 
+ * this code uses a helper "curry" func "_", which wraps any function passed in first and then returns another function that takes any args, applies args to previously passed in function, logs results, and returns result.
+ * "_" supports async.
+ * 
+ * the actual code returns a promise which sets up an http server that returns 2nd arg passed in as 1st arg being the http lib for node.
+ * thats it for today lol.
+ */
